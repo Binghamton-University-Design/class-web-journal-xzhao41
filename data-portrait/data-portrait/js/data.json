@@ -1,0 +1,83 @@
+{
+"key" :
+  { 
+    "Do you  eat breakfast?": {
+      "x" : 0,
+      "y" : 0,
+      "always" : "1_always.png",
+      "often" : "1_often.png",
+      "sometimes" : "1_sometimes.png",
+      "hardly ever" : "1_hardly-ever.png",
+      "never" : "1_never.png",
+      "is_text" : false
+    },
+    "What is your first beverage of the day?": {
+      "x" : 30,
+      "y" : 60,
+      "coffee" : "02_coffee.png",
+      "tea" : "02_tea.png",
+      "water" : "02_water.png",
+      "juice" : "02_juice.png",
+      "is_text" : false
+    },
+    "On a scale of 1 to 5 how important would you say breakfast is to you?": {
+      "x" : 263,
+      "y" : 28,
+      "1" : "3-1.png",
+      "2" : "3-2.png",
+      "3" : "3-3.png",
+      "4" : "3-4.png",
+      "5" : "3-5.png",
+      "is_text" : false
+    },
+    "I can't think unless I have breakfast.": {
+      "x" : 132,
+      "y" : 72,
+      "TRUE" : "4-true.png",
+      "FALSE" : "4-false.png",
+      "is_text" : false
+    },
+    "An ideal breakfast would include:": {
+      "x" : 32,
+      "y" : 370,
+      "is_text" : true
+    }
+  },
+"data" : [
+  {
+    "Do you  eat breakfast?": "always",
+    "I can't think unless I have breakfast.": "TRUE",
+    "What is your first beverage of the day?": "water",
+    "On a scale of 1 to 5 how important would you say breakfast is to you?": 4,
+    "An ideal breakfast would include:": "egg and cheese"
+  },
+  {
+    "Do you  eat breakfast?": "never",
+    "I can't think unless I have breakfast.": "FALSE",
+    "What is your first beverage of the day?": "coffee",
+    "On a scale of 1 to 5 how important would you say breakfast is to you?": 3,
+    "An ideal breakfast would include:": "a bloody mary"
+  },
+  {
+    "Do you  eat breakfast?": "always",
+    "I can't think unless I have breakfast.": "TRUE",
+    "What is your first beverage of the day?": "water",
+    "On a scale of 1 to 5 how important would you say breakfast is to you?": 3,
+    "An ideal breakfast would include:": "Pancakes and strawberry compote"
+  },
+  {
+    "Do you  eat breakfast?": "always",
+    "I can't think unless I have breakfast.": "TRUE",
+    "What is your first beverage of the day?": "coffee",
+    "On a scale of 1 to 5 how important would you say breakfast is to you?": 5,
+    "An ideal breakfast would include:": "coffee, yogurt, fruit, granola"
+  },
+  {
+    "Do you  eat breakfast?": "hardly ever",
+    "I can't think unless I have breakfast.": "FALSE",
+    "What is your first beverage of the day?": "juice",
+    "On a scale of 1 to 5 how important would you say breakfast is to you?": 2,
+    "An ideal breakfast would include:": "Tequila and takis"
+  }
+]
+}
