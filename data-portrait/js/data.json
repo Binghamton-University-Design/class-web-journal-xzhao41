@@ -1,0 +1,187 @@
+{
+"key" : {
+    "What is your age ?": {
+      "x":0,
+      "y":0,
+      "Below 18": "1.png",
+      "18 to 24": "2.png",
+      "25 to 30": "3.png",
+      "30 to 40": "4.png",
+      "Above 40": "5.png",
+      "is_text": false
+       },
+    "Remember your dreams in primary school or before?": {
+      "x": 0,
+      "y": 0,
+      "Yes, i still remember": "21.png",
+      "No, i have forgotten": "22.png",
+      "is_text" : false
+    },
+    "Is your current job related to your  dream?": {
+      "x": 0,
+      "y": 0,
+     "Yes,  I am doing my dream job now." : "31.png",
+      "Very close" : "32.png",
+      "Only half achieved" : "33.png",
+      "Not implemented at all" : "34.png",
+      "is_text" : false
+   },
+    "Has your dream changed  with age, and how many times have you changed?": {
+      "x" : 0,
+      "y" : 0,
+      "1" : "41.png",
+      "2" : "42.png",
+      "3" : "43.png",
+      ">3" : "44.png",
+      "Never changed" : "45.png",
+      "is_text" : false
+    },
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": {
+      "x" : 0,
+      "y" : 0,
+      "Lack of nescessary qualities (such as perseverance)" : "51.png",
+      "Lack of supplies (such as money)" : "52.png",
+      "Lack of opportunity" : "53.png",
+      "No, just don't wan to do." : "54.png",
+      "is_text" : false
+         },
+    "If you go back in time, would you still stick to your dreams?": {
+      "x" : 0,
+      "y" : 0,
+      "Yes, i do" : "61.png",
+      "No, i do not" : "62.png",
+      "is_text" : false
+      }
+      },
+"data" : [
+   {
+    "What is your age ?": "18 to 24",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Only half achieved",
+    "Has your dream changed  with age, and how many times have you changed?": "2",
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of nescessary qualities (such as perseverance)",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "18 to 24",
+    "Remember your dreams in primary school or before?": "No, i have forgotten",
+    "Is your current job related to your  dream?": "Only half achieved",
+    "Has your dream changed  with age, and how many times have you changed?": 3,
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of supplies (such as money)",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "18 to 24",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Only half achieved",
+    "Has your dream changed  with age, and how many times have you changed?": 1,
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of nescessary qualities (such as perseverance)",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "Above 40",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Not implemented at all",
+    "Has your dream changed  with age, and how many times have you changed?": 1,
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of supplies (such as money)",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "Above 40",
+    "Remember your dreams in primary school or before?": "No, i have forgotten",
+    "Is your current job related to your  dream?": "Yes,  I am doing my dream job now.",
+    "Has your dream changed  with age, and how many times have you changed?": 3,
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of opportunity",
+    "If you go back in time, would you still stick to your dreams?": "No, i do not"
+  },
+  {
+    "What is your age ?": "25 to 30",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Very close",
+    "Has your dream changed  with age, and how many times have you changed?": 1,
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of opportunity",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "Below 18",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Not implemented at all",
+    "Has your dream changed  with age, and how many times have you changed?": 1,
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of supplies (such as money)",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "18 to 24",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Not implemented at all",
+    "Has your dream changed  with age, and how many times have you changed?": 2,
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of opportunity",
+    "If you go back in time, would you still stick to your dreams?": "No, i do not"
+  },
+  {
+    "What is your age ?": "18 to 24",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Very close",
+    "Has your dream changed  with age, and how many times have you changed?": 2,
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of opportunity",
+    "If you go back in time, would you still stick to your dreams?": "No, i do not"
+  },
+  {
+    "What is your age ?": "Below 18",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Not implemented at all",
+    "Has your dream changed  with age, and how many times have you changed?": 2,
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "No, just don't wan to do.",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "18 to 24",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Very close",
+    "Has your dream changed  with age, and how many times have you changed?": 3,
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of nescessary qualities (such as perseverance)",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "18 to 24",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Yes,  I am doing my dream job now.",
+    "Has your dream changed  with age, and how many times have you changed?": "Never changed",
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of opportunity",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "Below 18",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Only half achieved",
+    "Has your dream changed  with age, and how many times have you changed?": "Never changed",
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of opportunity",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "30 to 40",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Not implemented at all",
+    "Has your dream changed  with age, and how many times have you changed?": ">3",
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of supplies (such as money)",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "30 to 40",
+    "Remember your dreams in primary school or before?": "No, i have forgotten",
+    "Is your current job related to your  dream?": "Only half achieved",
+    "Has your dream changed  with age, and how many times have you changed?": 3,
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of opportunity",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  },
+  {
+    "What is your age ?": "25 to 30",
+    "Remember your dreams in primary school or before?": "Yes, i still remember",
+    "Is your current job related to your  dream?": "Very close",
+    "Has your dream changed  with age, and how many times have you changed?": "Never changed",
+    "What makes you change or stop dreaming? Or what difficulties did you encounter on the way to your dream.": "Lack of supplies (such as money)",
+    "If you go back in time, would you still stick to your dreams?": "Yes, i do"
+  }
+
+ ]
+}
