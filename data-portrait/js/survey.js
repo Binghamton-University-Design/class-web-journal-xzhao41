@@ -128,7 +128,7 @@ function setup() {
 }
 
 function draw() {
-  background(246,223,212);
+  background(255,255,255);
   //image(bg, 0, 0);
 
   // Display all answers
